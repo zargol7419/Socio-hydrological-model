@@ -77,9 +77,13 @@ These files should be placed in the directory specified by the code (you can adj
 
 This project is licensed under the MIT License.
 
-## Software/Code Citation
+## Software/Code Citation:
 
-To obtain a DOI for this repository, please visit: [Zenodo](https://zenodo.org/) 
+Soleimanzadeh, Z. (2026). Socio-hydrological-model: A distributed socio-hydrological model (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.18734546
+
+The DOI for this repository is:
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18734546.svg)](https://doi.org/10.5281/zenodo.18734546)
+
 
 **Contact**:
 
