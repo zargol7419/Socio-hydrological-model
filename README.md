@@ -29,12 +29,18 @@ Each file in this sequence plays a role in either modifying the model inputs (e.
 
     The project uses Python, so install the required dependencies via `pip`. This project benefits from two main libraries including Flopy & Pynetlogo:
    **Installation**: Available with the pip package manager:
+   ```bash
    pip install pynetlogo
    pip install flopy
+   ```
   FloPy requires Python 3.10+ with:
+  
 numpy >=1.20.3
+
 matplotlib >=1.4.0
+
 pandas >=2.0.0
+
 Additionally pynetlogo requires packages including: JPype , NumPy, SciPy , pandas
 
 Make sure you have the following external software installed:
